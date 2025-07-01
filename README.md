@@ -10,9 +10,14 @@ Technologies Used
 >Java Swing (for the user interface)
 
 How it Works
+
 --The app has a text field at the top where you can type tasks.
+
 --The task list is shown in the center.
+
 --At the bottom, there are Add Task and Delete Task buttons.
+
 --When you click Add Task, the text is added to the list.
+
 --When you select a task and click Delete Task, the selected task is removed.
 
